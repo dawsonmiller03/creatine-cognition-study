@@ -9,9 +9,6 @@ A within-subjects experimental study investigating the effects of acute creatine
 | Role | Name | Email |
 |---|---|---|
 | Principal Investigator | Dawson Miller | dawson.miller@gordon.edu |
-| Faculty Advisor | Dr. Daniel Norton | daniel.norton@gordon.edu |
-| Investigator | Aiden de Vries | aiden.deVries@gordon.edu |
-| Investigator | Catherine Hall | catherine.hall@gordon.edu |
 
 **Institution:** Gordon College  
 **Project Dates:** April 1, 2026 – April 20, 2026
