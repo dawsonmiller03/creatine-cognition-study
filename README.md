@@ -1,5 +1,5 @@
+# WIP; Will be completed in May, 2026
 # The Impact of Creatine Supplementation on Multiple Object Tracking
-
 A within-subjects experimental study investigating the effects of acute creatine monohydrate supplementation on visual-spatial attention and cognitive performance at Gordon College.
 
 ---
