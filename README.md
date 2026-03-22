@@ -125,14 +125,6 @@ Key R packages: `tidyverse`, `ggplot2`, `lme4`, `rmarkdown` *(update as needed)*
 
 ---
 
-## ⚠️ Data & Privacy Notice
-
-All data files use participant codes only — no names or personally identifiable information are ever committed to this repository. The master key linking names to codes is stored offline and will be permanently deleted upon completion of analysis.
-
-> Sensitive files (master key, IRB documents) are excluded via `.gitignore` and must never be pushed to this repo.
-
----
-
 ## 📄 License
 
 Internal research project — Gordon College, 2026. Not for public distribution without permission.
